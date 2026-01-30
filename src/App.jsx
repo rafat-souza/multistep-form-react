@@ -43,7 +43,7 @@ function App() {
               </button>
             ) : (
               <button type="button">
-                <span>Send</span>
+                <span>Submit</span>
                 <FiSend />
               </button>
             )}
